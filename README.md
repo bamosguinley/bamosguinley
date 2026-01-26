@@ -1,7 +1,8 @@
-👨‍💻 **Developer & Digital Marketing Specialist**
+👨‍💻 Full-Stack Web Developer
+🌍 Cotonou, Benin
 
-🌍 Based in Cotonou, Bénin
+🚀 Building scalable web applications and business management systems
+🧩 Front-end • Back-end • APIs • Databases
+🎨 UX-minded, with a background in digital marketing & graphic design
 
-💡 Passionate about technology and digital marketing. Experienced in developing management systems and online community management.
-
-🎨 Also skilled in graphic design.
+📌 Focus: clean code, performance, and real-world solutions
